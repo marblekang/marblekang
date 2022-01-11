@@ -18,5 +18,5 @@ Here are some ideas to get you started:
 ![marblekang's github stats](https://github-readme-stats.vercel.app/api?username=marblekang&show_icons=true)
 [![marblekang's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=marblekang&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/marblekang)
 
-https://img.shields.io/badge/-Python-000000?style=flat&logo=Python
-https://img.shields.io/badge/-Python-000000?style=flat&logo=Python
+[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:khw11044@gmail.com)](mailto:khw11044@gmail.com)
+
